@@ -147,8 +147,8 @@ export function Projects() {
       <div className="container-custom relative">
         <SectionHeading
           label="Portfolio"
-          title={`${projectCount}+ Projects Built`}
-          description="A collection of client websites, web applications, online tools, and security utilities."
+          title={`${projectCount+20}+ Projects Built`}
+          description="Selected work across AI systems, backend engineering, SaaS platforms, data workflows, and full-stack product development."
         />
 
         <div className="mb-10 flex flex-wrap justify-center gap-2">
