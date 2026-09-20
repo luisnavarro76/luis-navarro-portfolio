@@ -10,6 +10,7 @@ import {
   Terminal,
   FileDown,
 } from "lucide-react";
+// import Image from "next/image";
 import { siteConfig } from "@/data/site";
 import { scrollToSection } from "@/lib/utils";
 import { Button } from "@/components/ui/button";
@@ -48,8 +49,8 @@ export function Hero() {
       ))}
 
       <div className="container-custom relative z-10">
-        <div className="grid items-center gap-12 lg:grid-cols-2 lg:gap-16">
-          <div>
+        <div className="grid items-center gap-12 lg:grid-cols-[minmax(0,45fr)_minmax(0,55fr)] lg:gap-8">
+          <div className="min-w-0">
             <motion.div
               initial={{ opacity: 0, y: 30 }}
               animate={{ opacity: 1, y: 0 }}
@@ -64,15 +65,6 @@ export function Hero() {
                 Available for Projects • U.S. & Global
               </span>
             </motion.div>
-
-            {/* <motion.p
-              initial={{ opacity: 0, y: 30 }}
-              animate={{ opacity: 1, y: 0 }}
-              transition={{ duration: 0.6, delay: 0.1 }}
-              className="mb-2 font-mono text-sm text-primary"
-            >
-              {siteConfig.education} • Pakistan
-            </motion.p> */}
 
             <motion.h1
               initial={{ opacity: 0, y: 30 }}
@@ -147,12 +139,12 @@ export function Hero() {
             initial={{ opacity: 0, x: 50 }}
             animate={{ opacity: 1, x: 0 }}
             transition={{ duration: 0.8, delay: 0.4 }}
-            className="relative"
+            className="relative min-w-0"
           >
             <div className="absolute -inset-4 rounded-2xl bg-gradient-to-r from-primary/20 to-accent/20 blur-2xl opacity-50" />
             <TerminalCode />
 
-            <div className="mt-6 grid grid-cols-3 gap-3">
+            {/* <div className="mt-6 grid grid-cols-3 gap-3">
               {["AI Agent", "Python", "LLMs", "RAG", "FastAPI", "Cloud"].map(
                 (tech, i) => (
                   <motion.div
@@ -166,7 +158,7 @@ export function Hero() {
                   </motion.div>
                 )
               )}
-            </div>
+            </div> */}
           </motion.div>
         </div>
       </div>

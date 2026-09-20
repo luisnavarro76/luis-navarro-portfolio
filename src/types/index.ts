@@ -71,6 +71,7 @@ export interface SiteConfig {
   description: string;
   tagline: string;
   role: string;
+  profileImage: string;
   education: string;
   email: string;
   phone: string;

@@ -7,6 +7,7 @@ export const siteConfig: SiteConfig = {
   description: "Luis Navarro is a Massachusetts-based Senior AI, Backend, and Full-Stack Engineer with 10+ years of experience building SaaS platforms, backend systems, AI applications, integrations, and cloud infrastructure.",
   tagline: "Senior AI, Backend & Full-Stack Engineer",
   role: "Senior AI, Backend & Full-Stack Engineer",
+  profileImage: "/images/luis-navarro.png",
   education: "Associate's degree, Computer Science",
   email: "upwork.luis.navarro@gmail.com",
   phone: "+1 6179535174",
