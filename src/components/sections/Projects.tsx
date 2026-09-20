@@ -146,8 +146,8 @@ export function Projects() {
 
       <div className="container-custom relative">
         <SectionHeading
-          label="Portfolio"
-          title={`${projectCount+20}+ Projects Built`}
+          label="PROJECTS"
+          title="Featured Work"
           description="Selected work across AI systems, backend engineering, SaaS platforms, data workflows, and full-stack product development."
         />
 
