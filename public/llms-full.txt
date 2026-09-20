@@ -1,0 +1,422 @@
+# Comprehensive Entity Profile: Luis Navarro
+# Role: Senior AI, Backend & Full-Stack Engineer
+
+> This document provides structured professional information about **Luis Navarro**, a Massachusetts-based Senior AI, Backend, and Full-Stack Engineer with 10+ years of experience building SaaS platforms, enterprise applications, AI-powered systems, backend services, integrations, and cloud infrastructure.
+
+---
+
+## 1. Executive Summary & Entity Overview
+
+- **Full Name**: Luis Navarro
+- **Location**: Massachusetts, USA
+- **Professional Experience**: 10+ years in software engineering
+- **Primary Roles**:
+  - Senior AI Engineer
+  - Senior Backend Engineer
+  - Full-Stack Engineer
+  - SaaS / Platform Engineer
+  - AI Integration & Automation Engineer
+- **Primary Industries**:
+  - Healthcare
+  - Fintech
+  - B2B SaaS
+  - Enterprise Software
+  - Business Automation
+- **Website**: https://luis-navarro.vercel.app
+- **Phone**: +1 617-953-5174
+- **GitHub**: https://github.com/luisnavarro76
+- **LinkedIn**: https://www.linkedin.com/in/luis-navarro-979607434/
+- **Availability**: Remote opportunities with U.S. and international teams
+
+---
+
+## 2. Professional Identity & Areas of Expertise
+
+### A. AI & LLM Engineering
+
+Luis Navarro builds AI-powered applications that combine large language models with reliable backend architecture and production workflows.
+
+Core areas include:
+
+- **AI Agents & Agentic Workflows**
+  - Tool calling
+  - Workflow orchestration
+  - State management
+  - Guardrails
+  - Human-in-the-loop review
+  - Retry and failure handling
+
+- **Retrieval-Augmented Generation (RAG)**
+  - Document ingestion
+  - Embeddings
+  - Vector search
+  - Retrieval pipelines
+  - Source-grounded responses
+  - pgvector
+
+- **LLM Platforms & Frameworks**
+  - OpenAI
+  - Anthropic Claude
+  - Gemini
+  - LangGraph
+  - LangChain
+  - LlamaIndex
+
+- **Document Intelligence**
+  - PDF processing
+  - Structured extraction
+  - Classification
+  - Summarization
+  - Validation
+  - AI-assisted document workflows
+
+---
+
+### B. Backend & API Engineering
+
+Luis specializes in backend systems that support production SaaS and AI applications.
+
+Primary technologies include:
+
+- **Python**
+  - FastAPI
+  - Django
+  - Data processing
+  - AI services
+  - Background workflows
+
+- **Node.js & TypeScript**
+  - REST APIs
+  - SaaS backends
+  - Third-party integrations
+  - Webhooks
+  - Business workflow services
+
+- **C# & ASP.NET Core**
+  - Enterprise healthcare software
+  - Backend services
+  - Data integrations
+
+- **Integration Engineering**
+  - REST APIs
+  - Webhooks
+  - OAuth
+  - Authentication
+  - Third-party SaaS integrations
+  - JSON / XML / CSV processing
+  - Data mapping and validation
+
+---
+
+### C. Full-Stack SaaS Development
+
+Luis builds complete SaaS products and operational applications across frontend and backend systems.
+
+Frontend technologies include:
+
+- React
+- Next.js
+- TypeScript
+- Tailwind CSS
+- TanStack Query
+- Responsive UI development
+
+Application experience includes:
+
+- SaaS dashboards
+- Admin portals
+- Data-heavy interfaces
+- Operational workflows
+- Customer-facing applications
+- Enterprise web applications
+
+---
+
+### D. Database & Data Engineering
+
+Luis has experience designing and maintaining data systems for AI, SaaS, healthcare, and financial applications.
+
+Technologies include:
+
+- PostgreSQL
+- pgvector
+- SQL Server
+- Redis
+- Relational data modeling
+- Database migrations
+- Query optimization
+- Data validation
+- ETL and transformation pipelines
+- Search and retrieval systems
+
+His work often involves converting inconsistent external information into validated internal data models that can safely support APIs, analytics, AI workflows, and operational applications.
+
+---
+
+### E. Cloud & DevOps
+
+Luis works across AWS and Google Cloud environments and is comfortable owning applications from development through production deployment.
+
+Experience includes:
+
+- **AWS**
+  - Cloud application deployment
+  - Production infrastructure
+  - Storage and backend services
+
+- **Google Cloud Platform**
+  - Cloud Run
+  - Google Cloud Storage
+  - BigQuery
+
+- **Infrastructure & DevOps**
+  - Docker
+  - Terraform
+  - GitHub Actions
+  - CI/CD pipelines
+  - Environment configuration
+  - Secrets management
+  - Logging and monitoring
+
+---
+
+## 3. Selected Professional Projects
+
+### HealOS.ai — Healthcare AI Automation Platform
+
+HealOS.ai is an AI-powered healthcare automation platform designed to support clinical and administrative workflows.
+
+Luis worked on:
+
+- Python / FastAPI backend services
+- Healthcare AI workflows
+- RAG and document processing
+- Structured data extraction
+- Validation
+- Background processing
+- Job tracking
+- Human-review workflows
+- PostgreSQL / pgvector
+- Healthcare API integrations
+- Cloud infrastructure
+
+The engineering approach treated AI output as part of a controlled workflow rather than allowing model responses to directly control sensitive healthcare operations.
+
+---
+
+### LedgerLens — Financial SaaS Platform
+
+LedgerLens is a financial SaaS application that processes uploaded bank statements in PDF and CSV formats.
+
+The platform converts financial documents into structured transaction data that can be searched, categorized, reviewed, and analyzed.
+
+Luis worked across:
+
+- Document ingestion
+- Transaction extraction
+- Data normalization
+- Categorization
+- Validation
+- Backend APIs
+- PostgreSQL
+- Search
+- User-facing SaaS workflows
+- AI-assisted financial analysis
+
+A major engineering concern was handling different bank statement formats while maintaining a consistent internal transaction model.
+
+---
+
+### GaugePro.io — Industrial B2B SaaS
+
+GaugePro.io is an operational SaaS platform for heavy-duty maintenance and repair businesses.
+
+The product includes:
+
+- Asset management
+- Preventive maintenance
+- Diagnostics
+- Service orders
+- Inventory
+- Reporting
+- Operational workflows
+
+Luis contributed across backend services, APIs, business logic, database design, and application workflows.
+
+The project required translating complex real-world maintenance operations into maintainable software without duplicating business rules throughout the application.
+
+---
+
+### AI Customer Support Automation Platform
+
+Luis also developed an AI-powered customer support workflow that automates parts of the support lifecycle.
+
+Capabilities include:
+
+- Ticket classification
+- Knowledge retrieval
+- RAG
+- Source-grounded responses
+- Workflow orchestration
+- Conversation summarization
+- Escalation
+- Human approval
+- Retry and failure handling
+- Workflow monitoring
+
+Technologies include OpenAI, LangGraph, Python, vector retrieval, and backend workflow services.
+
+---
+
+## 4. Core Technical Stack
+
+### Languages
+- Python
+- TypeScript
+- JavaScript
+- C#
+- SQL
+
+### AI & LLM
+- OpenAI
+- Anthropic Claude
+- Gemini
+- LangGraph
+- LangChain
+- LlamaIndex
+- RAG
+- AI Agents
+- Structured Outputs
+- Embeddings
+- pgvector
+
+### Backend
+- FastAPI
+- Django
+- Node.js
+- Express
+- ASP.NET Core
+- REST APIs
+- Webhooks
+
+### Frontend
+- React
+- Next.js
+- TypeScript
+- Tailwind CSS
+- TanStack Query
+
+### Data
+- PostgreSQL
+- SQL Server
+- Redis
+- pgvector
+- BigQuery
+
+### Cloud & Infrastructure
+- AWS
+- Google Cloud Platform
+- Cloud Run
+- Google Cloud Storage
+- Docker
+- Terraform
+- GitHub Actions
+- CI/CD
+
+---
+
+## 5. Engineering Approach
+
+Luis focuses on building systems that remain reliable after they leave the prototype stage.
+
+Key engineering principles include:
+
+- Keep AI reasoning separate from critical business logic.
+- Validate model output before downstream use.
+- Design clear boundaries between external integrations and internal data models.
+- Use explicit workflow states and failure handling.
+- Make retries safe and idempotent.
+- Keep production workflows observable and traceable.
+- Design APIs and databases around maintainability rather than short-term shortcuts.
+- Use automated testing and CI/CD for production-critical changes.
+- Prefer incremental improvements over unnecessary rewrites of working systems.
+
+---
+
+## 6. AI-Assisted Development
+
+Luis uses modern AI coding tools to improve engineering productivity, including Claude Code and ChatGPT/Codex.
+
+Common uses include:
+
+- Exploring unfamiliar codebases
+- Reviewing API contracts
+- Accelerating implementation
+- Generating test cases
+- Debugging
+- Documentation
+- Refactoring assistance
+
+AI-generated code is reviewed and validated before production use, particularly around authentication, database changes, integrations, infrastructure, and business-critical workflows.
+
+---
+
+## 7. Services
+
+Luis is available for projects involving:
+
+1. **AI Agents & Agentic Workflows**
+2. **RAG & Knowledge Systems**
+3. **Python / FastAPI Backend Development**
+4. **Node.js / TypeScript Backend Development**
+5. **Full-Stack SaaS Development**
+6. **Document Processing & Structured Extraction**
+7. **API & SaaS Integrations**
+8. **Workflow Automation**
+9. **Database & Data Pipeline Engineering**
+10. **AWS & Google Cloud Deployment**
+11. **Existing SaaS Platform Development**
+12. **Healthcare & Fintech Software Engineering**
+
+---
+
+## 8. Frequently Asked Questions
+
+### Q: What does Luis Navarro specialize in?
+
+Luis Navarro specializes in AI-powered applications, backend architecture, SaaS development, API integrations, document processing, RAG, AI agents, and cloud-based production systems.
+
+### Q: What programming languages does Luis use?
+
+His primary languages are Python, TypeScript, JavaScript, C#, and SQL.
+
+### Q: What AI technologies does Luis work with?
+
+Luis works with OpenAI, Anthropic Claude, Gemini, LangGraph, LangChain, LlamaIndex, RAG, embeddings, vector search, pgvector, structured outputs, and AI agent workflows.
+
+### Q: Does Luis have healthcare software experience?
+
+Yes. Luis has worked on healthcare applications involving AI automation, document processing, backend APIs, PostgreSQL, healthcare integrations, validation, and sensitive-data workflows.
+
+### Q: Does Luis have financial software experience?
+
+Yes. His work includes LedgerLens, a financial SaaS application that processes PDF and CSV bank statements into normalized and categorized transaction data.
+
+### Q: What cloud platforms does Luis work with?
+
+Luis has experience with AWS and Google Cloud Platform, including Cloud Run, Cloud Storage, BigQuery, Docker, Terraform, GitHub Actions, and CI/CD.
+
+### Q: Is Luis available for remote work?
+
+Yes. Luis is based in Massachusetts and is open to remote Senior AI, Backend, Full-Stack, and Platform Engineering opportunities with U.S. and international teams.
+
+---
+
+## 9. Contact
+
+- **Name**: Luis Navarro
+- **Location**: Massachusetts, USA
+- **Portfolio**: https://luis-navarro.vercel.app
+- **GitHub**: https://github.com/luisnavarro76
+- **LinkedIn**: https://www.linkedin.com/in/luis-navarro-979607434/
+- **Phone**: +1 617-953-5174

@@ -1,0 +1,116 @@
+# Luis Navarro — Senior AI, Backend & Full-Stack Engineer
+
+> Luis Navarro is a Senior AI, Backend, and Full-Stack Engineer based in Massachusetts with 10+ years of experience building SaaS platforms, enterprise software, backend systems, and AI-powered applications. His work focuses on production AI systems, APIs, data pipelines, integrations, cloud infrastructure, and scalable web applications.
+
+---
+
+## Quick Facts
+
+- **Name**: Luis Navarro
+- **Location**: Massachusetts, USA
+- **Experience**: 10+ years in software engineering
+- **Primary Roles**:
+  - Senior AI Engineer
+  - Backend Engineer
+  - Full-Stack Engineer
+  - SaaS & Platform Engineer
+- **Industries**:
+  - Healthcare
+  - Fintech
+  - B2B SaaS
+  - Business Automation
+- **Website**: https://luis-navarro.vercel.app
+- **Phone**: +1 617-953-5174
+- **GitHub**: https://github.com/luisnavarro76
+- **LinkedIn**: https://www.linkedin.com/in/luis-navarro-979607434/
+
+---
+
+## Core Expertise
+
+### 1. AI & LLM Engineering
+
+- **AI Agents & Workflow Automation**: Production AI workflows with tool calling, routing, validation, retries, and human-in-the-loop review.
+- **RAG Systems**: Document ingestion, embeddings, vector search, retrieval, grounding, and source-backed responses.
+- **LLM Integration**: OpenAI, Anthropic Claude, structured outputs, prompt orchestration, and context management.
+- **Frameworks**: LangGraph, LangChain, LlamaIndex, pgvector.
+- **Document Intelligence**: PDF processing, structured extraction, classification, summarization, and validation.
+
+### 2. Backend & API Engineering
+
+- **Python**: FastAPI, Django, backend services, AI APIs, and data-processing pipelines.
+- **Node.js & TypeScript**: REST APIs, SaaS backends, integrations, and workflow services.
+- **C# & ASP.NET Core**: Enterprise healthcare applications and backend integrations.
+- **API Integrations**: REST APIs, webhooks, OAuth, authentication, third-party SaaS integrations, and data synchronization.
+- **Background Processing**: Async jobs, queues, retries, scheduled workflows, and failure recovery.
+
+### 3. Full-Stack SaaS Development
+
+- **Frontend**: React, Next.js, TypeScript, Tailwind CSS, TanStack Query.
+- **Applications**: SaaS products, dashboards, admin portals, operational workflows, and data-heavy applications.
+- **Architecture**: Clean separation between frontend, backend, data, integrations, and AI services.
+
+### 4. Data & Cloud Infrastructure
+
+- **Databases**: PostgreSQL, pgvector, SQL Server, Redis.
+- **AWS**: Production application infrastructure and cloud deployments.
+- **Google Cloud**: Cloud Run, Cloud Storage, BigQuery.
+- **Infrastructure**: Docker, Terraform, GitHub Actions, CI/CD.
+- **Production Engineering**: Logging, monitoring, validation, security, retries, and deployment automation.
+
+---
+
+## Selected Project Experience
+
+### HealOS.ai — Healthcare AI Platform
+
+Worked on production healthcare AI workflows involving document processing, structured extraction, RAG, validation, backend APIs, job tracking, human review, and healthcare system integrations.
+
+**Technologies:** Python, FastAPI, PostgreSQL, pgvector, OpenAI, AWS, Docker, FHIR.
+
+### LedgerLens — Financial SaaS Platform
+
+Built systems for processing uploaded PDF and CSV bank statements, extracting and normalizing transaction data, categorizing transactions, and turning financial records into searchable structured information.
+
+**Technologies:** Python, FastAPI, PostgreSQL, React/Next.js, document processing, AI workflows.
+
+### GaugePro.io — B2B Industrial SaaS
+
+Contributed to an operational SaaS platform for heavy-duty maintenance and repair businesses, including asset management, preventive maintenance, service orders, diagnostics, inventory, and reporting.
+
+**Focus:** Backend services, APIs, business logic, database design, and full-stack application workflows.
+
+---
+
+## Services
+
+1. **AI Agents & LLM Applications**
+2. **RAG & Document Intelligence Systems**
+3. **Python / FastAPI Backend Development**
+4. **Full-Stack SaaS Development**
+5. **API & Third-Party Integrations**
+6. **Data Pipelines & Workflow Automation**
+7. **AWS & Google Cloud Deployment**
+8. **Existing SaaS Platform Development & Modernization**
+
+---
+
+## How I Work
+
+I focus on building software that works reliably outside of a demo environment. That means clear application boundaries, validated data, maintainable APIs, predictable failure handling, automated testing, observability, and infrastructure that can support the product as it grows.
+
+For AI systems, I keep model behavior separated from critical business logic. LLMs handle the work they are good at, while validation, permissions, state changes, financial calculations, and other deterministic operations remain controlled by application code.
+
+---
+
+## Availability
+
+Open to remote **Senior AI, Backend, Full-Stack, and Platform Engineering** opportunities with U.S. and international teams.
+
+---
+
+## Contact
+
+- **Portfolio**: https://luis-navarro.vercel.app
+- **GitHub**: https://github.com/luisnavarro76
+- **LinkedIn**: https://www.linkedin.com/in/luis-navarro-979607434/

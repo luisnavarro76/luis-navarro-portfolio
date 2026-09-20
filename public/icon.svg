@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" fill="none">
+  <rect width="32" height="32" rx="8" fill="#060912"/>
+  <rect x="1" y="1" width="30" height="30" rx="7" stroke="#00b4ff" stroke-opacity="0.3" stroke-width="1"/>
+  <!-- Cyber Shield & S logo -->
+  <path d="M16 5L25 9.5V17.5C25 22.5 16 27 16 27C16 27 7 22.5 7 17.5V9.5L16 5Z" fill="#00b4ff" fill-opacity="0.15" stroke="#00b4ff" stroke-width="1.5" stroke-linejoin="round"/>
+  <path d="M18.5 11.5H13.5C12.5 11.5 12 12.2 12 13C12 14.5 14 14.8 16 15.2C18 15.6 20 16 20 17.8C20 19 19 20 17.5 20H12.5" stroke="#00b4ff" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
